@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - /bin/cp -R backend /home/semsebxs/tracker
+    - /bin/cp -R frontend /home/semsebxs/tracker
